@@ -1,0 +1,9 @@
+/frontend/node_modules
+/frontend/dist
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.development.local
+.venv
+/src/__pycache__
+/data
+/uploads
