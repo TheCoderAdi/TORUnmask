@@ -69,7 +69,7 @@ curl -X POST "http://127.0.0.1:5000/predict" -H "Content-Type: application/json"
 #### **Test TOR Sample:**  
 ```bash
 curl -X POST "http://127.0.0.1:5000/predict" -H "Content-Type: application/json" \
--d '{"features": [0.2, 0.3, 0.8, 0.1, 0.6, 0.7, 0.4, 0.5, 0.9, 0.3, 0.2, 0.8, 0.6, 0.1, 0.5]}'
+-d '{"features": [4940714, 299553.87, 363.51, 2752.49, 12223.80, 108627, -128, 4127.58, 15000.11, 108830, 3, 8105.28, 20493.49, 108808, 28]}'
 ```
 
 ---
